@@ -4,7 +4,7 @@ A secure messaging platform for sealed, single-view letters.
 
 Victorian Whispers lets users write private messages, seal them and share them via unique one-time access codes. Once a message is read and closed, it self-destructs - basically permanently deleted from the database.
 
----
+
 
 ## 🔐 Features
 
@@ -13,7 +13,7 @@ Victorian Whispers lets users write private messages, seal them and share them v
 - Frontend–backend integration for full message lifecycle
 - Minimal, elegant interface with customizable writing experience
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -21,14 +21,14 @@ Victorian Whispers lets users write private messages, seal them and share them v
 - **Backend:** Node.js, Supabase, Crypto  
 - **Deployment:** Vercel (frontend), Render (backend)  
 
----
+
 
 ## 📁 Repositories
 
 - **Frontend:** [github.com/H-ERa/frontend_react_vite](https://github.com/H-ERa/frontend_react_vite)  
 - **Backend:** [github.com/H-ERa/HERa-backend](https://github.com/H-ERa/HERa-backend)
 
----
+
 
 ## 💌 Usage
 
@@ -38,4 +38,4 @@ Victorian Whispers lets users write private messages, seal them and share them v
 4. Recipient enters the code and password to view the message  
 5. Once closed, the message is permanently deleted
 
-Example video in this repository.
+Currently, backend is un-deployed due to Render free tier user limits.
