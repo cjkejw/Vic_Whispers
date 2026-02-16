@@ -38,4 +38,5 @@ Victorian Whispers lets users write private messages, seal them and share them v
 4. Recipient enters the code and password to view the message  
 5. Once closed, the message is permanently deleted
 
-Currently, backend is un-deployed due to Render free tier user limits.
+Link: frontend-react-vite.vercel.app
+Currently, backend is un-deployed due to Render free tier user limits. You can dm me to deploy it if you want to try it out! :D
