@@ -6,6 +6,13 @@ Victorian Whispers lets users write private messages, seal them and share them v
 
 
 
+## 📁 Repositories
+
+- **Frontend:** [github.com/H-ERa/frontend_react_vite](https://github.com/H-ERa/frontend_react_vite)  
+- **Backend:** [github.com/H-ERa/HERa-backend](https://github.com/H-ERa/HERa-backend)
+
+
+
 ## 🔐 Features
 
 - One-time message retrieval with automatic deletion after read
@@ -20,13 +27,6 @@ Victorian Whispers lets users write private messages, seal them and share them v
 - **Frontend:** React (Vite), Tailwind CSS  
 - **Backend:** Node.js, Supabase, Crypto  
 - **Deployment:** Vercel (frontend), Render (backend)  
-
-
-
-## 📁 Repositories
-
-- **Frontend:** [github.com/H-ERa/frontend_react_vite](https://github.com/H-ERa/frontend_react_vite)  
-- **Backend:** [github.com/H-ERa/HERa-backend](https://github.com/H-ERa/HERa-backend)
 
 
 
